@@ -1,4 +1,4 @@
-## Olá, eu sou Luiz Felipe! 👋
+## Olá, eu sou o Luiz Felipe! 👋
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=lzfelipealves&show_icons=true&theme=synthwave&count_private=false)
 
