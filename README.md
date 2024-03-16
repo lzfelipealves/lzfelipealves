@@ -1,5 +1,7 @@
 ## Olá, eu sou Luiz Felipe! 👋
 
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=lzfelipealves&show_icons=true&theme=synthwave&count_private=false)
+
 ## Sobre Mim
 Sou um entusiasta da tecnologia apaixonado por desenvolvimento de software, especialmente nas áreas de inteligência artificial, aprendizado de máquina e desenvolvimento web. Estou constantemente buscando aprender e me aprimorar em novas tecnologias e conceitos.
 
@@ -10,8 +12,6 @@ Sou um entusiasta da tecnologia apaixonado por desenvolvimento de software, espe
   - Frameworks: Node.js
   - Bancos de Dados: MySQL, MongoDB
   ---
-
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=lzfelipealves&show_icons=true&theme=synthwave&count_private=false)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
