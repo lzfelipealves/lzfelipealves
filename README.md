@@ -13,6 +13,12 @@ Sou um entusiasta da tecnologia apaixonado por desenvolvimento de software, espe
   - Bancos de Dados: MySQL, MongoDB
   ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lzfelipealves/lzfelipealves/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lzfelipealves/lzfelipealves/output/github-snake.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/lzfelipealves/lzfelipealves/output/github-snake.svg">
+</picture>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -20,13 +26,3 @@ Sou um entusiasta da tecnologia apaixonado por desenvolvimento de software, espe
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
-
-
-![Snake animation](https://github.com/lzfelipealves/lzfelipealves/blob/output/github-contribution-grid-snake.svg)
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
